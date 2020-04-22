@@ -1,3 +1,4 @@
+# Ignore unnecessary files to save memory in GitHub
 /venv
 /.idea
 /.pytest_cache
