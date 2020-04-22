@@ -1,0 +1,9 @@
+# How to run requirement.txt to install packages:
+# pip3 install -r requirements.txt
+pytest
+selenium
+webdriver-manager
+jsonschema
+simplejson
+html-testRunner
+requests
