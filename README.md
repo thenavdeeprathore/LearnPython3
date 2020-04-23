@@ -23,4 +23,5 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 **List** 
 1) [List basic concepts](data_structure_list/List_Basics.py)
 2) [List aliasing and cloning](data_structure_list/List_CloningAndAliasing.py)
+3) [List conversion](data_structure_list/List_ConvertingToList.py)
 3) [List methods and functions](data_structure_list/List_Functions.py)
