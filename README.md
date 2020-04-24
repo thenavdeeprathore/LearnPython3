@@ -43,3 +43,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 
 **Set**
 1) [Set basic concepts](data_structure_set/Set_Basics.py)
+4) [Set conversions](data_structure_set/Set_ConvertingToSet.py)
