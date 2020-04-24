@@ -40,3 +40,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 7) [Tuple packing and unpacking](data_structure_tuple/Tuple_PackingUnpacking.py)
 8) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
 9) [Difference between list and tuple](data_structure_tuple/Difference_ListVsTuple.py)
+
+**Set**
+1) [Set basic concepts](data_structure_set/Set_Basics.py)
