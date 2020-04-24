@@ -33,5 +33,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 **Tuple**
 1) [Tuple basic concepts](data_structure_tuple/Tuple_Basics.py)
 2) [Tuple methods and functions](data_structure_tuple/Tuple_Functions.py)
-3) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
+3) [Tuple aliasing and cloning](data_structure_tuple/Tuple_CloningAndAliasing.py)
 4) [Tuple packing and unpacking](data_structure_tuple/Tuple_PackingUnpacking.py)
+5) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
