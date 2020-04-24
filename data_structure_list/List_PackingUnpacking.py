@@ -18,6 +18,14 @@ print(type(c))  # <class 'str'>
 print(d)  # True
 print(type(d))  # <class 'bool'>
 
+# unpacking special case:
+list_unpacking = [10, 11.22, "Python", True]
+a, *b = list_unpacking
+print(a)  # 10
+print(b)  # [11.22, 'Python', True]
+print(type(b))  # <class 'list'>
+
+
 """
 # Note: Unpack all the values
 -----------------------------
