@@ -27,6 +27,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 4) [List conversions](data_structure_list/List_ConvertingToList.py)
 5) [Nested list](data_structure_list/List_NestedList.py)
 6) [List comprehension](data_structure_list/List_Comprehension.py)
+7) [List packing and unpacking](data_structure_list/List_PackingUnpacking.py)
 
 **Tuple**
 1) [Tuple basic concepts](data_structure_tuple/Tuple_Basics.py)
