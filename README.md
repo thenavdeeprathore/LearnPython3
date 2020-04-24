@@ -36,5 +36,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 3) [Tuple aliasing and cloning](data_structure_tuple/Tuple_CloningAndAliasing.py)
 4) [Tuple conversions](data_structure_tuple/Tuple_ConvertingToTuple.py)
 5) [Nested tuple](data_structure_tuple/Tuple_NestedTuple.py)
-6) [Tuple packing and unpacking](data_structure_tuple/Tuple_PackingUnpacking.py)
-7) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
+6) [Tuple comprehension](data_structure_tuple/Tuple_Comprehension.py)
+7) [Tuple packing and unpacking](data_structure_tuple/Tuple_PackingUnpacking.py)
+8) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
