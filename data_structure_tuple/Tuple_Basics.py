@@ -97,8 +97,8 @@ print(t)  # ('h', 'e', 'l', 'l', 'o')
 
 
 # DYNAMIC INPUT USING COMMAND LINE -- eval()
-# t = eval(input("Enter a tuple: "))
-# print(t)
+t = eval(input("Enter a tuple: "))
+print(t)
 
 
 # -------------------------------- Accessing elements of Tuple:
