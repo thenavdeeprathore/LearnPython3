@@ -33,6 +33,6 @@ At the time of tuple unpacking the number of variables and number of values
 should be same, otherwise we will get ValueError.
 
 Eg:
-l = [10, 20, 30, 40]
+t = (10, 20, 30, 40)
 a, b, c = t  ValueError: too many values to unpack (expected 3)
 """

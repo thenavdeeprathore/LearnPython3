@@ -47,3 +47,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 3) [Set aliasing and cloning](data_structure_set/Set_CloningAndAliasing.py)
 4) [Set conversions](data_structure_set/Set_ConvertingToSet.py)
 5) [Set comprehension](data_structure_set/Set_Comprehension.py)
+6) [Set packing and unpacking](data_structure_set/Set_PackingUnpacking.py)
