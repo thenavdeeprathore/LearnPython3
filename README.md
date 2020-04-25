@@ -48,3 +48,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 4) [Set conversions](data_structure_set/Set_ConvertingToSet.py)
 5) [Set comprehension](data_structure_set/Set_Comprehension.py)
 6) [Set packing and unpacking](data_structure_set/Set_PackingUnpacking.py)
+7) [Set max and min](data_structure_set/Set_MaxMin.py)
