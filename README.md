@@ -49,3 +49,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 5) [Set comprehension](data_structure_set/Set_Comprehension.py)
 6) [Set packing and unpacking](data_structure_set/Set_PackingUnpacking.py)
 7) [Set max and min](data_structure_set/Set_MaxMin.py)
+
+**Dictionary**
+1) [Dictionary basic concepts](data_structure_dictionary/Dict_Basics.py)
