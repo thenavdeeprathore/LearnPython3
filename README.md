@@ -65,3 +65,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 **Functions**
 * [Functions introduction](functions/Functions_Introduction.py)
 * [Functions types of arguments](functions/Functions_TypesOfArguments.py)
+* [Functions types of variables](functions/Functions_TypesOfVariables.py)
