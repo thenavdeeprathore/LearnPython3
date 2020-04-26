@@ -61,3 +61,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 **Collections**
 * [Collections introduction](data_structure_collections/Collections_Introduction.py)
 * [Collections merging](data_structure_collections/Collections_Merging.py)
+
+**Functions**
+* [Functions introduction](functions/Functions_Introduction.py)
