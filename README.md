@@ -59,4 +59,5 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 6) [Dictionary unpacking](data_structure_dictionary/Dict_Unpacking.py)
 
 **Collections**
+* [Collections introduction](data_structure_collections/Collections_Introduction.py)
 * [Collections merging](data_structure_collections/Collections_Merging.py)
