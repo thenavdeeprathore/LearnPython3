@@ -56,4 +56,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 3) [Dictionary aliasing and cloning](data_structure_dictionary/Dict_CloningAndAliasing.py)
 4) [Dictionary conversions](data_structure_dictionary/Dict_Conversions.py)
 5) [Dictionary comprehension](data_structure_dictionary/Dict_Comprehension.py)
-6) [Dictionary packing and unpacking]
+6) [Dictionary unpacking](data_structure_dictionary/Dict_Unpacking.py)
