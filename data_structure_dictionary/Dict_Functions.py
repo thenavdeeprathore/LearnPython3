@@ -167,3 +167,13 @@ print(d1)  # {100: 'tom', 200: 'jerry', 300: 'minnie'}
 d[400] = "chris"
 print(d)  # {100: 'tom', 200: 'jerry', 300: 'minnie', 400: 'chris'}
 print(d1)  # {100: 'tom', 200: 'jerry', 300: 'minnie'}
+
+# ##############################  sorted() function ##############################
+d = {1: "aa", 4: "bb", 2: "cc", 3: "dd"}
+print(d.keys())  # dict_keys([1, 4, 2, 3])
+print(sorted(d.keys()))  # [1, 2, 3, 4]
+print(sorted(d.values()))  # ['aa', 'bb', 'cc', 'dd']
+print(sorted(d.items()))  # [(1, 'aa'), (2, 'cc'), (3, 'dd'), (4, 'bb')]
+print(sorted(d.keys(), reverse=True))  # [4, 3, 2, 1]
+print(sorted(d.values(), reverse=True))  # ['dd', 'cc', 'bb', 'aa']
+print(sorted(d.items(), reverse=True))  # [(4, 'bb'), (3, 'dd'), (2, 'cc'), (1, 'aa')]
