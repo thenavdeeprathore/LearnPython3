@@ -70,16 +70,21 @@ print(d)  # {100: 'a', 200: 'b'}
 print(type(d))  # <class 'dict'>
 
 # By using dynamic input -- eval
-# d = eval(input("Enter a dict: "))
-# print(d)
+d = eval(input("Enter a dict: "))
+print(d)
 
 # ################################################ Dictionary key types:
 # dict keys must be : immutable {tuple, Number(int, float), String etc}
 # dict values can be of any type
+
 # d = {[1, 2]: "John", 22: 20, 33: "Chris"}  # TypeError: un hashable type: 'list'
+
 d = {(1, 2): "python", 3: "java"}
 print(d)  # {(1, 2): 'python', 3: 'java'}
 print(d[(1, 2)])  # python
+
+d = {None: None}
+print(d)  # {None: None}
 
 # ################################################ Dictionary key duplicate:
 # Duplicate keys are not allowed, it will overwrite the existing one
@@ -208,3 +213,11 @@ print(id(dict3))
 print(dict1 is dict2)  # False
 print(dict1 is dict3)  # True
 print(dict1 is not dict2)  # True
+
+# ##############################  type casting ##############################
+print(list(d.keys()))  # [1, 4, 2, 3]
+print(list(d.values()))  # ['aa', 'bb', 'cc', 'dd']
+print(list(d.items()))  # [(1, 'aa'), (4, 'bb'), (2, 'cc'), (3, 'dd')]
+
+print(tuple(d.keys()))  # (1, 4, 2, 3)
+print(set(d.keys()))  # {1, 2, 3, 4}
