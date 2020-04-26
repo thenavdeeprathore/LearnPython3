@@ -53,3 +53,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 **Dictionary**
 1) [Dictionary basic concepts](data_structure_dictionary/Dict_Basics.py)
 2) [Dictionary methods and functions](data_structure_dictionary/Dict_Functions.py)
+3) [Dictionary aliasing and cloning](data_structure_dictionary/Dict_CloningAndAliasing.py)

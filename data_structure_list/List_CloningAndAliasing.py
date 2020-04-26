@@ -33,7 +33,7 @@ l1[1] = 999
 print(l1)  # [10, 999, 30, 40]
 print(l2)  # [10, 20, 30, 40]
 
-# Bu using copy() method
+# By using copy() method
 l1 = [10, 20, 30, 40]
 l2 = l1.copy()
 print(l1)  # [10, 20, 30, 40]
