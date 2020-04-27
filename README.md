@@ -70,3 +70,4 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Lambda or Anonymous function](functions/Functions_Lambda_Anonymous.py)
 * [Filter function](functions/Functions_Lambda_Filter.py)
 * [Map function](functions/Functions_Map.py)
+* [Reduce function](functions/Functions_Reduce.py)
