@@ -77,12 +77,12 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 7) [Set max and min](06_3_data_structure_set/Set_MaxMin.py)
 
 **Dictionary**
-1) [Dictionary basic concepts](data_structure_dictionary/Dict_Basics.py)
-2) [Dictionary methods and functions](data_structure_dictionary/Dict_Functions.py)
-3) [Dictionary aliasing and cloning](data_structure_dictionary/Dict_CloningAndAliasing.py)
-4) [Dictionary conversions](data_structure_dictionary/Dict_Conversions.py)
-5) [Dictionary comprehension](data_structure_dictionary/Dict_Comprehension.py)
-6) [Dictionary unpacking](data_structure_dictionary/Dict_Unpacking.py)
+1) [Dictionary basic concepts](06_4_data_structure_dictionary/Dict_Basics.py)
+2) [Dictionary methods and functions](06_4_data_structure_dictionary/Dict_Functions.py)
+3) [Dictionary aliasing and cloning](06_4_data_structure_dictionary/Dict_CloningAndAliasing.py)
+4) [Dictionary conversions](06_4_data_structure_dictionary/Dict_Conversions.py)
+5) [Dictionary comprehension](06_4_data_structure_dictionary/Dict_Comprehension.py)
+6) [Dictionary unpacking](06_4_data_structure_dictionary/Dict_Unpacking.py)
 
 **Collections**
 * [Collections introduction](data_structure_collections/Collections_Introduction.py)
