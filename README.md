@@ -62,7 +62,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Collections introduction](data_structure_collections/Collections_Introduction.py)
 * [Collections merging](data_structure_collections/Collections_Merging.py)
 
-**Functions**
+## `Functions`
 * [Functions introduction](functions/Function_Introduction.py)
 * [Functions types of arguments](functions/Function_TypesOfArguments.py)
 * [Functions types of variables](functions/Function_TypesOfVariables.py)
@@ -74,7 +74,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Map function](functions/Functions_Map.py)
 * [Reduce function](functions/Functions_Reduce.py)
 
-**Modules**
+## `Modules`
 * [Write and use module](modules/01_WriteAndUseModule.py)
 * [Module aliasing](modules/02_ModuleAliasing.py)
 * [From import](modules/03_FromImport.py)
@@ -91,12 +91,12 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Generate 6 digits otp number](modules/14_GenerateSixDigitsOTPNumber.py)
 * [Generate fake employee data](modules/15_GenerateFakeEmployeeData.py)
 
-**Packages**
+## `Packages`
 * [Packages introduction](packages/01_PackageIntroduction.py)
 * [Packages advantage](packages/01_PackageIntroduction.py)
 * [Use of `__init__` file](packages/02_UseOf__init__file.py)
 * [How to install packages](packages/03_InstallPackage.py)
 
-**Exception Handling**
+## `Exception Handling`
 * [Exception handling basic concepts](exception_handling/Exception_Basics_Concepts.py)
 * [Exception handling 27 possible cases](exception_handling/exception_handling_possible_cases)
