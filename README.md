@@ -57,15 +57,15 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 8) [List max and min](06_1_data_structure_list/List_MaxMin.py)
 
 **Tuple**
-1) [Tuple basic concepts](data_structure_tuple/Tuple_Basics.py)
-2) [Tuple methods and functions](data_structure_tuple/Tuple_Functions.py)
-3) [Tuple aliasing and cloning](data_structure_tuple/Tuple_CloningAndAliasing.py)
-4) [Tuple conversions](data_structure_tuple/Tuple_ConvertingToTuple.py)
-5) [Nested tuple](data_structure_tuple/Tuple_NestedTuple.py)
-6) [Tuple comprehension](data_structure_tuple/Tuple_Comprehension.py)
-7) [Tuple packing and unpacking](data_structure_tuple/Tuple_PackingUnpacking.py)
-8) [Tuple max and min](data_structure_tuple/Tuple_MaxMin.py)
-9) [Difference between list and tuple](data_structure_tuple/Difference_ListVsTuple.py)
+1) [Tuple basic concepts](06_2_data_structure_tuple/Tuple_Basics.py)
+2) [Tuple methods and functions](06_2_data_structure_tuple/Tuple_Functions.py)
+3) [Tuple aliasing and cloning](06_2_data_structure_tuple/Tuple_CloningAndAliasing.py)
+4) [Tuple conversions](06_2_data_structure_tuple/Tuple_ConvertingToTuple.py)
+5) [Nested tuple](06_2_data_structure_tuple/Tuple_NestedTuple.py)
+6) [Tuple comprehension](06_2_data_structure_tuple/Tuple_Comprehension.py)
+7) [Tuple packing and unpacking](06_2_data_structure_tuple/Tuple_PackingUnpacking.py)
+8) [Tuple max and min](06_2_data_structure_tuple/Tuple_MaxMin.py)
+9) [Difference between list and tuple](06_2_data_structure_tuple/Difference_ListVsTuple.py)
 
 **Set**
 1) [Set basic concepts](data_structure_set/Set_Basics.py)
