@@ -1,7 +1,10 @@
-# There are 3 Types of variables:
-# Instance variables / Object level variables
-# Static variables / Class level variables
-# Local variables
+"""
+There are 3 Types of variables:
+------------------------------
+1) Instance variables / Object level variables
+2) Static variables / Class level variables
+3) Local variables / Method level variables
+"""
 
 
 # case 1: variables which are declared using self are instance variables

@@ -1,6 +1,8 @@
-# static variable : for all objects a single copy is maintained at class level
+"""
+static variable : for all objects a single copy is maintained at class level
 
-# Declare static variables?
+Declare static variables?
+------------------------
 # Within the class directly but from outside of any method
 # Inside constructor by using class name
 # Inside instance method by using class name
@@ -8,7 +10,8 @@
 # Inside @staticmethod by using class name
 # from outside the class by using class name
 
-# How to access static variables?
+How to access static variables?
+------------------------------
 # we can access either using classname or object reference
 # Inside class: classname, self, cls
 # Outside class: object reference, classname
@@ -16,6 +19,7 @@
 # within the class we can access by using classname
 # Inside classmethod we can also access using cls variable
 # from outside the class by using class name
+"""
 
 
 class Student:
