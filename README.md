@@ -124,8 +124,8 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [How to install packages](09_packages/03_InstallPackage.py)
 
 ## `Exception Handling`
-* [Exception handling basic concepts](exception_handling/Exception_Basics_Concepts.py)
-* [Exception handling 27 possible cases](exception_handling/exception_handling_possible_cases)
+* [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
+* [Exception handling 27 possible cases](11_exception_handling/exception_handling_possible_cases)
 
 ## `Assertions`
 * [Assertion concepts](assertions/Assertions_Concept.py)
