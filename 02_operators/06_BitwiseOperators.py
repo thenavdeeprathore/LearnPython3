@@ -1,8 +1,8 @@
 """
 5) Bitwise Operators:
 --------------------
-- We can apply these 02_operators bitwise.
-- These 02_operators are applicable only for int and boolean types.
+- We can apply these operators bitwise.
+- These operators are applicable only for int and boolean types.
 - By mistake if we are trying to apply for any other type then we will get Error.
 - &, |, ^, ~, <<, >>
 

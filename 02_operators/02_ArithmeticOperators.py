@@ -1,16 +1,16 @@
 """
 1) Arithmetic Operators:
 ------------------------
-Total there are 7 02_operators
+Total there are 7 operators
 
-These 5 02_operators are provided in every programming language
+These 5 operators are provided in every programming language
 +  Addition
 –  Subtraction
 *  Multiplication
 /  Division Operator
 %  Modulo Operator
 
-These 2 02_operators are only provided in python
+These 2 operators are only provided in python
 //  Floor Division Operator
 **  Exponent Operator OR Power Operator
 
@@ -23,7 +23,7 @@ result is float type.
 
 Note 2:
 -------
-- We can use +,* 02_operators for str type also.
+- We can use +,* operators for str type also.
 - If we want to use + operator for str type then compulsory both arguments should be
 str type only otherwise we will get error.
 -If we use * operator for str type then compulsory one argument should be int and
@@ -53,7 +53,7 @@ print('a//b=', a // b)  # 5
 print('a%b=', a % b)  # 0
 print('a**b=', a ** b)  # 100
 
-# difference between division / and floor division // 02_operators
+# difference between division / and floor division // operators
 print(10 / 3)  # 3.3333333333333335
 print(10.0 / 3)  # 3.3333333333333335
 print(10 // 3)  # 3
