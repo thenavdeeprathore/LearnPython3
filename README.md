@@ -67,7 +67,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Functions types of arguments](functions/Function_TypesOfArguments.py)
 * [Functions types of variables](functions/Function_TypesOfVariables.py)
 * [Functions Aliasing](functions/Functions_Aliasing.py)
-* [Nested functions]
+* [Nested functions](functions/Functions_Nested.py)
 * [Recursive function](functions/Functions_Recursive.py)
 * [Lambda or Anonymous function](functions/Functions_Lambda_Anonymous.py)
 * [Filter function](functions/Functions_Lambda_Filter.py)
