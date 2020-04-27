@@ -1,7 +1,7 @@
 """
 Base Conversions:
 
-Python provide the following in-built 07_functions for base conversions
+Python provide the following in-built functions for base conversions
 bin()
 oct()
 hex()

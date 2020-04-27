@@ -49,7 +49,7 @@ List vs Set:
 # frozenset
 """
 1) It is exactly same as set except that it is immutable.
-2) Hence we cannot use add or remove 07_functions.
+2) Hence we cannot use add or remove functions.
 
 tuple vs frozenset:
 -------------------
