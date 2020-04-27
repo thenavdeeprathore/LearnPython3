@@ -15,10 +15,10 @@ assert statement over print() statement is after fixing bug we are not required 
 delete assert statements. Based on our requirement we can enable or disable assert
 statements.
 
-☕ Hence the main purpose of assertions is to perform debugging. Usually we can perform
+☕ Hence the main purpose of 12_assertions is to perform debugging. Usually we can perform
 debugging either in development or in test environments but not in production
 environment.
-Hence assertions concept is applicable only for dev and test environments
+Hence 12_assertions concept is applicable only for dev and test environments
 but not for production environment.
 """
 

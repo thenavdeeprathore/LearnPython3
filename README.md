@@ -128,8 +128,8 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Exception handling 27 possible cases](11_exception_handling/exception_handling_possible_cases)
 
 ## `Assertions`
-* [Assertion concepts](assertions/Assertions_Concept.py)
-* [Assertion types](assertions/Assertions_Types.py)
+* [Assertion concepts](12_assertions/Assertions_Concept.py)
+* [Assertion types](12_assertions/Assertions_Types.py)
 
 ## `File Handling`
 * [File concepts](file_handling/01_FileConcepts.py)
