@@ -158,7 +158,7 @@ for items in t:
     print(items)
 
 
-# -------------------------------- Mathematical operators for List:
+# -------------------------------- Mathematical 02_operators for List:
 """
 1) Concatenation operator (+)
 2) Repetition operator (*)
@@ -179,7 +179,7 @@ t2 = t1*3
 print(t2)  # (10, 20, 30, 10, 20, 30, 10, 20, 30)
 
 
-# -------------------------------- Equality operators for Tuple:
+# -------------------------------- Equality 02_operators for Tuple:
 """
 ==
 The number of the elements must be same
@@ -199,14 +199,14 @@ print(t1 == t4)  # False
 print(t1 != t4)  # True
 
 
-# -------------------------------- Relational operators for Tuple:
+# -------------------------------- Relational 02_operators for Tuple:
 """
 <
 <=
 >
 >=
 """
-# Note: content comparison only in relational operators
+# Note: content comparison only in relational 02_operators
 # First element in both tuple will be checked first [10] [50]
 t1 = [10, 20, 30, 40]
 t2 = [50, 60]
@@ -216,13 +216,13 @@ print(t1 > t2)  # False
 print(t1 >= t2)  # False
 
 
-# -------------------------------- Special operators for Tuple:
+# -------------------------------- Special 02_operators for Tuple:
 """
-Membership operators: {check content}
+Membership 02_operators: {check content}
 in
 not in
 
-Identity operators: {memory/address comparison}
+Identity 02_operators: {memory/address comparison}
 is
 is not
 """

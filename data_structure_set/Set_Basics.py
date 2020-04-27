@@ -59,17 +59,17 @@ s = eval(input("Enter a set value: "))
 print(s)
 
 
-# -------------------------------- Mathematical operators for Set:
+# -------------------------------- Mathematical 02_operators for Set:
 """
 Not applicable
-We can't use Concatenation operator (+) and Repetition operator (*) operators in set
+We can't use Concatenation operator (+) and Repetition operator (*) 02_operators in set
 We will get TypeError
 """
 s1 = {10, 20, 30}
 s2 = {40, 50, 60, 70}
 # print(s1 + s2)  # TypeError: unsupported operand type(s) for +: 'set' and 'set'
 
-# -------------------------------- Equality operators for Set:
+# -------------------------------- Equality 02_operators for Set:
 """
 Not applicable
 since insertion order is not preserved, it's not possible to use == or != operator
@@ -79,7 +79,7 @@ s2 = {20, 10, 30, 50}
 print(s1 == s2)  # True
 print(s1 != s2)  # False
 
-# -------------------------------- Relational operators for Set:
+# -------------------------------- Relational 02_operators for Set:
 """
 Not applicable
 since insertion order is not preserved, we will get False in every relational case
@@ -90,15 +90,15 @@ print(s1 < s2)  # False
 print(s1 > s2)  # False
 
 
-# -------------------------------- Special operators for Tuple:
+# -------------------------------- Special 02_operators for Tuple:
 """
 Yes we can apply this operator in set
 
-Membership operators: {check content}
+Membership 02_operators: {check content}
 in
 not in
 
-Identity operators: {memory/address comparison}
+Identity 02_operators: {memory/address comparison}
 is
 is not
 """

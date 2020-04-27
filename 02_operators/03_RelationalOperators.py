@@ -1,7 +1,7 @@
 """
 2) Relational Operators: >, >=, <, <=
 -------------------------------------
-We can apply relational operators for int and str types also.
+We can apply relational 02_operators for int and str types also.
 
 """
 
@@ -62,7 +62,7 @@ print(False > True)  # False
 # print(10 > 'sunny')  # TypeError: '>' not supported between instances of 'int' and 'str'
 
 
-# Note: Chaining of relational operators is possible.
+# Note: Chaining of relational 02_operators is possible.
 # In the chaining, if all comparisons returns True then only result is True.
 # If at-least one comparison returns False then the result is False.
 print(10 < 20)  # True

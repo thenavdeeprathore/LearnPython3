@@ -36,14 +36,14 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [None data type and escape char](01_language_fundamentals/14_None_EscapeChar_Constants.py)
 
 ## `Operators`
-* [Operators introduction](operators/01_IntroductionOperators.py)
-* [Arithmetic operators](operators/02_ArithmeticOperators.py)
-* [Relational operators](operators/03_RelationalOperators.py)
-* [Equality operators](operators/04_EqualityOperators.py)
-* [Logical operators](operators/05_LogicalOperators.py)
-* [Bitwise operators](operators/06_BitwiseOperators.py)
-* [Shift operators](operators/07_ShiftOperators.py)
-* [Assignment operators](operators/08_AssignmentOperators.py)
+* [Operators introduction](02_operators/01_IntroductionOperators.py)
+* [Arithmetic operators](02_operators/02_ArithmeticOperators.py)
+* [Relational operators](02_operators/03_RelationalOperators.py)
+* [Equality operators](02_operators/04_EqualityOperators.py)
+* [Logical operators](02_operators/05_LogicalOperators.py)
+* [Bitwise operators](02_operators/06_BitwiseOperators.py)
+* [Shift operators](02_operators/07_ShiftOperators.py)
+* [Assignment operators](02_operators/08_AssignmentOperators.py)
 
 ## `Python3 Data Structures`
 **List**

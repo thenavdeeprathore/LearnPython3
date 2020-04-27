@@ -163,22 +163,22 @@ for k, v in d.items():
 
 # ################################################ Operators for dictionary:
 '''
-1) Mathematical operators {dict doesn't support}
+1) Mathematical 02_operators {dict doesn't support}
         Concatenation operator (+)
         Repetition operator (*)
-2) Relation operators {dict doesn't support}
+2) Relation 02_operators {dict doesn't support}
         <
         <=
         >
         >=
-3) Equality operators
+3) Equality 02_operators
         ==
         !=
-4) Membership operators: {check content}
+4) Membership 02_operators: {check content}
         in
         not in
-        # NOTE : membership operators will only check for keys
-5) Identity operators: {memory/address comparison}
+        # NOTE : membership 02_operators will only check for keys
+5) Identity 02_operators: {memory/address comparison}
         is
         is not
 '''
@@ -187,11 +187,11 @@ dict1 = {111: "IronMan", 222: "BatMan"}
 dict2 = {333: "Hulk", 444: "Thor"}
 dict3 = dict1
 
-# Dictionary doesn't supports Mathematical operators
+# Dictionary doesn't supports Mathematical 02_operators
 # print(dict1 + dict2)  # TypeError: unsupported operand type(s) for +: 'dict' and 'dict'
 # print(dict1 * 3)  # TypeError: unsupported operand type(s) for *: 'dict' and 'int'
 
-# Dictionary doesn't supports Relational operators
+# Dictionary doesn't supports Relational 02_operators
 # print(dict1 < dict2)  # TypeError: '<' not supported between instances of 'dict' and 'dict'
 # print(dict1 > dict2)  # TypeError: '>' not supported between instances of 'dict' and 'dict'
 
@@ -202,7 +202,7 @@ print(dict1 != dict2)  # True
 print(111 in dict1)  # True
 print(12 in dict1)  # False
 print(13 not in dict1)  # True
-# NOTE : membership operators will only check for keys, for values it will always give False
+# NOTE : membership 02_operators will only check for keys, for values it will always give False
 print("Thor" in dict2)  # False
 
 # id of dict1 and dict3 are same

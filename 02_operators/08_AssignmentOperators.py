@@ -7,7 +7,7 @@
 assignment operator.
     Eg: x += 10  x = x+10
 
-The following is the list of all possible compound assignment operators in Python.
+The following is the list of all possible compound assignment 02_operators in Python.
 +=
 -=
 *=

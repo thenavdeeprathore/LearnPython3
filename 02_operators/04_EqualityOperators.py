@@ -1,10 +1,10 @@
 """
 3) Equality Operators: ==, !=
 -----------------------------
-We can apply these operators for any type even for incompatible types also.
+We can apply these 02_operators for any type even for incompatible types also.
 
 Note:
-    Chaining concept is applicable for equality operators. If at-least one comparison
+    Chaining concept is applicable for equality 02_operators. If at-least one comparison
 returns False then the result is False. Otherwise the result is True.
 """
 

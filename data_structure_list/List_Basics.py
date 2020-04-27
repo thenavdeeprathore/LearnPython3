@@ -203,7 +203,7 @@ while i < len(n):
     i = i + 1
 
 
-# -------------------------------- Mathematical operators for List:
+# -------------------------------- Mathematical 02_operators for List:
 """
 1) Concatenation operator (+)
 2) Repetition operator (*)
@@ -243,7 +243,7 @@ l4 = l3*3
 print(l4)  # [10, 20, 30, 40, 10, 20, 30, 40, 10, 20, 30, 40]
 
 
-# -------------------------------- Equality operators for List:
+# -------------------------------- Equality 02_operators for List:
 """
 ==
 The number of the elements must be same
@@ -263,14 +263,14 @@ print(l1 == l4)  # False
 print(l1 != l4)  # True
 
 
-# -------------------------------- Relational operators for List:
+# -------------------------------- Relational 02_operators for List:
 """
 <
 <=
 >
 >=
 """
-# Note: content comparison only in relational operators
+# Note: content comparison only in relational 02_operators
 # First element in both list will be checked first [10] [50]
 l1 = [10, 20, 30, 40]
 l2 = [50, 60]
@@ -280,13 +280,13 @@ print(l1 > l2)  # False
 print(l1 >= l2)  # False
 
 
-# -------------------------------- Special operators for List:
+# -------------------------------- Special 02_operators for List:
 """
-Membership operators: {check content}
+Membership 02_operators: {check content}
 in
 not in
 
-Identity operators: {memory/address comparison}
+Identity 02_operators: {memory/address comparison}
 is
 is not
 """

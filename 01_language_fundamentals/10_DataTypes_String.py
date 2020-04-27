@@ -51,7 +51,7 @@ print(s[-1])
 # print(s[100])  # IndexError: string index out of range
 
 
-# + and * operators for str data types:
+# + and * 02_operators for str data types:
 print("Hello" + "World")
 # print("hello" + 10)  # TypeError: can only concatenate str (not "int") to str
 print("Hello" + str(10))  # Hello10
