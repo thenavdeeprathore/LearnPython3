@@ -96,3 +96,6 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Packages advantage](packages/01_PackageIntroduction.py)
 * [Use of `__init__` file](packages/02_UseOf__init__file.py)
 * [How to install packages](packages/03_InstallPackage.py)
+
+**Exception Handling**
+* [Exception handling basic concepts](exception_handling/Exception_Basics_Concepts.py)
