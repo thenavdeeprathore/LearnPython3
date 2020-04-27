@@ -47,14 +47,14 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 
 ## `Python3 Data Structures`
 **List**
-1) [List basic concepts](data_structure_list/List_Basics.py)
-2) [List methods and functions](data_structure_list/List_Functions.py)
-3) [List aliasing and cloning](data_structure_list/List_CloningAndAliasing.py)
-4) [List conversions](data_structure_list/List_ConvertingToList.py)
-5) [Nested list](data_structure_list/List_NestedList.py)
-6) [List comprehension](data_structure_list/List_Comprehension.py)
-7) [List packing and unpacking](data_structure_list/List_PackingUnpacking.py)
-8) [List max and min](data_structure_list/List_MaxMin.py)
+1) [List basic concepts](06_1_data_structure_list/List_Basics.py)
+2) [List methods and functions](06_1_data_structure_list/List_Functions.py)
+3) [List aliasing and cloning](06_1_data_structure_list/List_CloningAndAliasing.py)
+4) [List conversions](06_1_data_structure_list/List_ConvertingToList.py)
+5) [Nested list](06_1_data_structure_list/List_NestedList.py)
+6) [List comprehension](06_1_data_structure_list/List_Comprehension.py)
+7) [List packing and unpacking](06_1_data_structure_list/List_PackingUnpacking.py)
+8) [List max and min](06_1_data_structure_list/List_MaxMin.py)
 
 **Tuple**
 1) [Tuple basic concepts](data_structure_tuple/Tuple_Basics.py)
