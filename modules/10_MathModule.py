@@ -1,7 +1,7 @@
 # Python provides inbuilt module math.
-# This module defines several functions which can be used for mathematical operations.
+# This module defines several 07_functions which can be used for mathematical operations.
 """
-The main important functions are
+The main important 07_functions are
 1) sqrt(x)
 2) ceil(x)
 3) floor(x)
@@ -88,7 +88,7 @@ A float value passed to the function
 The function must take absolute value of the float
 Any decimal points after the integer must be removed
 
-Which two math functions should be used?
+Which two math 07_functions should be used?
 
 1) math.frexp(x)
 2) math.floor(x)

@@ -1,7 +1,7 @@
 """
 Nested Functions:
 ----------------
-=>  We can declare a function inside another function, such type of functions are called Nested functions.
+=>  We can declare a function inside another function, such type of 07_functions are called Nested 07_functions.
 
 Note: A function can return another function.
 """

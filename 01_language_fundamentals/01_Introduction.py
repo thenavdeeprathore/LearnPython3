@@ -101,7 +101,7 @@ Other features:
     included in Python development.
 =>  Python uses new lines to complete a command.
 =>  Python relies on indentation, using whitespace, to define scope.
-    such as the scope of loops, functions and classes.
+    such as the scope of loops, 07_functions and classes.
 
 
 Vendors:

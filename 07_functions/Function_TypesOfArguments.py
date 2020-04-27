@@ -1,4 +1,4 @@
-# ###################### Types of arguments in functions ######################
+# ###################### Types of arguments in 07_functions ######################
 """
 Types of Arguments
 def f1(a,b):
@@ -17,7 +17,7 @@ There are 4 types of actual arguments are allowed in Python.
 """
 
 
-# ###################### 1) positional / required arguments to the functions
+# ###################### 1) positional / required arguments to the 07_functions
 '''
 => These are the arguments passed to function in correct positional order.
     def sub(a, b):
@@ -52,7 +52,7 @@ sub(100, 200)  # -100
 # sub(10)  # TypeError: sub() missing 1 required positional argument: 'b'
 
 
-# ###################### 2) Keyword arguments to the functions
+# ###################### 2) Keyword arguments to the 07_functions
 '''
 We can pass argument values by keyword i.e by parameter name.
 Here the order of arguments is not important but number of arguments must be matched.
@@ -99,7 +99,7 @@ emp_data(13, emp_name="micky", emp_sal=300000)  # 13 micky 300000
 # emp_data(emp_id=14, "minnie", emp_sal=400000)  # SyntaxError: positional argument follows keyword argument
 
 
-# ###################### 3) Default arguments to the functions
+# ###################### 3) Default arguments to the 07_functions
 '''
 Sometimes we can provide default values for our positional arguments.
 If we are not passing any name then only default value will be considered.
@@ -140,7 +140,7 @@ def wish(name, msg="Good Morning"): pass  # Valid
 # def wish(name="Guest", msg): pass  # SyntaxError: non-default argument follows default argument
 
 
-# ###################### 4) Variable length arguments to the functions
+# ###################### 4) Variable length arguments to the 07_functions
 '''
 =>  Sometimes we can pass variable number of arguments to our function, such type of
     arguments are called variable length arguments.

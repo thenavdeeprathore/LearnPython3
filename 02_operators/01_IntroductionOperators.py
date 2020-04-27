@@ -16,5 +16,5 @@ Python provides the following set of 02_operators:
     9.1) Identity 02_operators
     9.2) Membership 02_operators
 10) Operator precedence
-11) Mathematical functions by using math module
+11) Mathematical 07_functions by using math module
 """

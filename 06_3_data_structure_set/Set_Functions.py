@@ -36,7 +36,7 @@ s.update(range(1, 6), "python")
 print(s)  # {1, 2, 3, 4, 5, 'y', 'o', 40, 'p', 10, 'h', 't', 20, 'n', 30}
 
 '''
-Q) What is the difference between add() and update() functions in Set?
+Q) What is the difference between add() and update() 07_functions in Set?
 
 =>  We can use add() to add individual item to the Set, where as we can use update() function 
 to add multiple items to Set.

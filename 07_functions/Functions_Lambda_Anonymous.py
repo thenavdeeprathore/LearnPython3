@@ -1,8 +1,8 @@
 """
 Anonymous Functions / Lambda Functions:
 -------------------
-=>  Sometimes we can declare a function without any name, such type of nameless functions are called
-    anonymous functions or lambda functions.
+=>  Sometimes we can declare a function without any name, such type of nameless 07_functions are called
+    anonymous 07_functions or lambda 07_functions.
 =>  The main purpose of lambda function is just for instant use (i.e for one time usage)
 
 Lambda Function:
@@ -38,11 +38,11 @@ Note:   Lambda Function internally returns expression value and we are not requi
         write return statement explicitly.
 
 Note:   Sometimes we can pass function as argument to another function. In such cases
-        lambda functions are best choice.
+        lambda 07_functions are best choice.
 
 # Function as argument to another function
-We can use lambda functions very commonly with filter(), map() and reduce() functions,
-because these functions expect function as argument.
+We can use lambda 07_functions very commonly with filter(), map() and reduce() 07_functions,
+because these 07_functions expect function as argument.
         filter(function, sequence)
         map(function, sequence)
         reduce(function, sequence)

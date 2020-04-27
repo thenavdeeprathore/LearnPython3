@@ -48,7 +48,7 @@ Output:
 
 # Difference between dir() and help()
 """
-dir() --> This functions lists out all members of the given module
+dir() --> This 07_functions lists out all members of the given module
 
 help() --> This function provides documentation related to that module
 """

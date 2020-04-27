@@ -34,10 +34,10 @@ print(issubclass(Class2, object))
 print(issubclass(Class3, object))
 
 
-# case 2: self variable is important for functions inside the class
+# case 2: self variable is important for 07_functions inside the class
 class Class4:
 
-    def disp1(self):  # self is important for functions inside the class
+    def disp1(self):  # self is important for 07_functions inside the class
         print("good morning")
 
     def disp2(self, name):

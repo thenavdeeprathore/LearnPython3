@@ -89,16 +89,16 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Collections merging](data_structure_collections/Collections_Merging.py)
 
 ## `Functions`
-* [Functions introduction](functions/Function_Introduction.py)
-* [Functions types of arguments](functions/Function_TypesOfArguments.py)
-* [Functions types of variables](functions/Function_TypesOfVariables.py)
-* [Functions Aliasing](functions/Functions_Aliasing.py)
-* [Nested functions](functions/Functions_Nested.py)
-* [Recursive function](functions/Functions_Recursive.py)
-* [Lambda or Anonymous function](functions/Functions_Lambda_Anonymous.py)
-* [Filter function](functions/Functions_Lambda_Filter.py)
-* [Map function](functions/Functions_Map.py)
-* [Reduce function](functions/Functions_Reduce.py)
+* [Functions introduction](07_functions/Function_Introduction.py)
+* [Functions types of arguments](07_functions/Function_TypesOfArguments.py)
+* [Functions types of variables](07_functions/Function_TypesOfVariables.py)
+* [Functions Aliasing](07_functions/Functions_Aliasing.py)
+* [Nested functions](07_functions/Functions_Nested.py)
+* [Recursive function](07_functions/Functions_Recursive.py)
+* [Lambda or Anonymous function](07_functions/Functions_Lambda_Anonymous.py)
+* [Filter function](07_functions/Functions_Lambda_Filter.py)
+* [Map function](07_functions/Functions_Map.py)
+* [Reduce function](07_functions/Functions_Reduce.py)
 
 ## `Modules`
 * [Write and use module](modules/01_WriteAndUseModule.py)

@@ -1,11 +1,11 @@
 # Working with random Module:
 """
-This module defines several functions to generate random numbers.
+This module defines several 07_functions to generate random numbers.
 
-We can use these functions while developing games, in cryptography and to generate
+We can use these 07_functions while developing games, in cryptography and to generate
 random numbers for authentication {passwords}, for OTP
 
-functions:
+07_functions:
 ----------
 random()
 uniform()

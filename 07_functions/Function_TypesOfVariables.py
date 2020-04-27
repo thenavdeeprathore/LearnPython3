@@ -5,7 +5,7 @@ Python supports 2 types of variables.
 
 1) Global Variables
 =>  The variables which are declared outside of function are called global variables.
-=>  These variables can be accessed in all functions of that module.
+=>  These variables can be accessed in all 07_functions of that module.
 
 2) Local Variables:
 =>  The variables which are declared inside a function are called local variables.

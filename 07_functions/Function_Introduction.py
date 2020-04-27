@@ -1,24 +1,24 @@
 """
-Python functions:
+Python 07_functions:
 ----------------
 A group of statements are repeatedly required for code re-usability
 Indentation is important for the code inside the function
 
-Any functions defined inside class are called METHODS
+Any 07_functions defined inside class are called METHODS
 Any function defined outside class by their own are called FUNCTIONS
 
-Types of functions:
+Types of 07_functions:
 ------------------
-1) Built in/Predefined functions
-The functions which are coming along with Python software automatically, are called built in functions
+1) Built in/Predefined 07_functions
+The 07_functions which are coming along with Python software automatically, are called built in 07_functions
         id()
         type()
         input()
         eval()
         etc..
 
-2) User-defined functions
-The functions which are developed by programmer explicitly according to business requirements
+2) User-defined 07_functions
+The 07_functions which are developed by programmer explicitly according to business requirements
 Syntax to Create User defined Functions:
 
 def function_name(parameters):
@@ -27,7 +27,7 @@ def function_name(parameters):
     -----
     return value
 
-Note: While creating functions we can use 2 keywords
+Note: While creating 07_functions we can use 2 keywords
 1) def (mandatory)
 2) return (optional)
 
@@ -37,7 +37,7 @@ It can return multiple values --> return x, y, z
 """
 
 
-# ###################### User-defined functions ######################
+# ###################### User-defined 07_functions ######################
 # case 1: No error if there is no return type or return value in a function
 def greeting():
     """ greeting function without a return type """
@@ -81,7 +81,7 @@ for x in tup:
 # 2.5
 
 
-# ###################### Parameters to the functions ######################
+# ###################### Parameters to the 07_functions ######################
 """
 Parameters are inputs to the function. If a function contains parameters then at the time of calling, 
 compulsory we should provide values otherwise we will get error.

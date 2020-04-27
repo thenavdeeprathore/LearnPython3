@@ -1,5 +1,5 @@
 """
-Dict functions:
+Dict 07_functions:
 --------------
 1) len
 2) get(key) or get(key, default_value)

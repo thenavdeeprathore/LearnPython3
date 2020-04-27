@@ -12,7 +12,7 @@
 We need to write some set of scripts named as setup.py
 C:/Users/neova500/Desktop/GIT Projects/Python3/Python_Package/setup.py
 
-In this we need to call setup() functions which is available in setuptools module
+In this we need to call setup() 07_functions which is available in setuptools module
 """
 
 # run setup.py file

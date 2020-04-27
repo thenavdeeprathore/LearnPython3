@@ -3,7 +3,7 @@ Type Casting:
 ------------
 We can convert one type value to another type. This conversion is called Typecasting or Type coersion.
 
-The following are various inbuilt functions for type casting.
+The following are various inbuilt 07_functions for type casting.
 1) int()
 2) float()
 3) complex()

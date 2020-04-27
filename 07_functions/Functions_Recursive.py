@@ -3,7 +3,7 @@ Recursive Functions
 -------------------
 A function that calls itself is known as Recursive Function.
 
-The main advantages of recursive functions are:
+The main advantages of recursive 07_functions are:
 1) We can reduce length of the code and improves readability.
 2) We can solve complex problems very easily.
 """

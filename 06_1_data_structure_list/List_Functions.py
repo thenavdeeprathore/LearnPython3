@@ -157,7 +157,7 @@ l = []
 """
 Note:
 1) pop() is the only function which manipulates the list and returns some value
-2) In general we can use append() and pop() functions to implement stack data structure
+2) In general we can use append() and pop() 07_functions to implement stack data structure
    by using list, which follows LIFO(Last In First Out) order.
    
 In general we can use pop() function to remove last element of the list. But we can use to
