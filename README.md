@@ -123,6 +123,9 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Use of `__init__` file](09_packages/02_UseOf__init__file.py)
 * [How to install packages](09_packages/03_InstallPackage.py)
 
+## `OOPs`
+* [Classes and objects](10_oops/01_ClassAndObjects.py)
+
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
 * [Exception handling 27 possible cases](11_exception_handling/exception_handling_possible_cases)
