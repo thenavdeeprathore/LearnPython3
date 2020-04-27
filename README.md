@@ -120,3 +120,16 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 ## `Assertions`
 * [Assertion concepts](assertions/Assertions_Concept.py)
 * [Assertion types](assertions/Assertions_Types.py)
+
+## `File Handling`
+* [File concepts](file_handling/01_FileConcepts.py)
+* [File modes](file_handling/02_FileModes.py)
+* [Close file](file_handling/03_CloseFile.py)
+* [Write file](file_handling/04_WriteFile.py)
+* [Write dynamic data in dynamic file](file_handling/05_WriteDynamicDataInDynamicFile.py)
+* [Read file](file_handling/06_ReadFile.py)
+* [Read data from one file to another](file_handling/07_ReadDataFromOneFileToAnother.py)
+* [With file](file_handling/08_With.py)
+* [tell seek](file_handling/09_Tell_Seek.py)
+* [File exists](file_handling/10_FileExists.py)
+* [Count words chars in a file](file_handling/11_CountWordsCharsInFile.py)
