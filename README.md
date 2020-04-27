@@ -91,3 +91,8 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Generate 6 digits otp number](modules/14_GenerateSixDigitsOTPNumber.py)
 * [Generate fake employee data](modules/15_GenerateFakeEmployeeData.py)
 
+**Packages**
+* [Packages introduction](packages/01_PackageIntroduction.py)
+* [Packages advantage](packages/01_PackageIntroduction.py)
+* [Use of `__init__` file](packages/02_UseOf__init__file.py)
+* [How to install packages](packages/03_InstallPackage.py)
