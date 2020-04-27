@@ -1,26 +1,51 @@
+"""
 # constructor is a special method in python
 # constructors are used to write the logic
-# name of the constructor is always: __init__()
+# name of the constructor is always: __init__(self)
 # constructor will be executed automatically at the time of object creation
 # Main objective of constructor is: to declare and initialize instance variables
-# at least one argument -- self
+# Constructor can take at least one argument(at least self)
 # constructor is not mandatory for every class, python will provide default constructor
+"""
 
 
 # case 1: constructor will be executed once for every object creation
 class Test1:
 
     def __init__(self):
-        print("0-arg default constructor")
+        print("no-arg constructor")
 
 
 # Best Practise: To create objects with different names
-obj1 = Test1()  # 0-arg default constructor
-obj2 = Test1()  # 0-arg default constructor
-obj3 = Test1()  # 0-arg default constructor
+obj1 = Test1()  # no-arg constructor
+obj2 = Test1()  # no-arg constructor
+obj3 = Test1()  # no-arg constructor
 
 
-# case 2: overloading concept is not present in constructors
+# case 2: default constructor
+class Test:
+
+    def m1(self):
+        print("m1 method")
+
+
+o1 = Test()  #
+o2 = Test()  #
+o3 = Test()  #
+
+
+# case 3: calling constructor from outside the class after creating an object
+class Test:
+
+    def __init__(self):
+        print("0-arg constructor")
+
+
+t = Test()  # no-arg constructor
+t.__init__()  # no-arg constructor
+
+
+# case 4: overloading concept is not present in constructors
 # It will always take the latest constructor
 class Test2:
 
@@ -36,7 +61,7 @@ obj5 = Test2(10)  # one-arg constructor
 obj6 = Test2(20)  # one-arg constructor
 
 
-# case 3: calling instance variable
+# case 5: calling instance variable
 class Test3:
 
     def __init__(self, a, b):
@@ -55,7 +80,7 @@ obj.add()
 obj.mul()
 
 
-# case 4: calling instance method
+# case 6: calling instance method
 class Test4:
 
     def m1(self):
@@ -70,7 +95,7 @@ t = Test4()
 t.m1()
 
 
-# case 5: constructor with arguments
+# case 7: constructor with arguments
 class Test5:
     name = "john"
 
@@ -82,7 +107,7 @@ class Test5:
 c = Test5("Tom")
 
 
-# case 6: conversions of local var to class var
+# case 8: conversions of local var to class var
 class Operations:
 
     def __init__(self, num1, num2):
@@ -102,70 +127,3 @@ class Operations:
 o = Operations(10, 20)
 o.add()
 o.mul()
-
-
-class Emp:
-
-    def __init__(self, eid, ename, esal):
-        self.eid = eid
-        self.ename = ename
-        self.esal = esal
-
-    def disp(self):
-        print("EmpId: {} Ename: {} Esal: {}".format(self.eid, self.ename, self.esal))
-
-
-e = Emp(111, "Navdeep", 9999999)
-e.disp()
-
-
-# __str__
-class test:
-    def __str__(self):
-        return "tom"  # if you don't write return statement then it will throw error
-
-
-c = test()
-print(c)
-
-
-class Emp1:
-
-    def __init__(self, eid, ename, esal):
-        self.eid = eid
-        self.ename = ename
-        self.esal = esal
-
-    def __str__(self):
-        # print("EmpId: {} Ename: {} Esal: {}".format(self.eid, self.ename, self.esal))
-        return "EmpId: {} Ename: {} Esal: {}".format(self.eid, self.ename, self.esal)  # return is important
-
-
-e1 = Emp1(111, "Navdeep", 9999999)
-print(e1)  # printing ref var -- internally it calls __str__()
-
-
-# __del__()  : executed when we destroy objects
-class des():
-    def __del__(self):
-        print("Object destroyed...")
-
-
-d1 = des()
-d2 = des()
-del d1
-del d2
-
-
-class My1:
-    def __del__(self):
-        print("object destroyed........")
-
-
-c1 = My1()
-c2 = c1
-c3 = c1
-
-del c1
-del c2
-del c3
