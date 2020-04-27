@@ -1,4 +1,4 @@
-# How to run requirement.txt to install packages:
+# How to run requirement.txt to install 09_packages:
 # pip3 install -r requirements.txt
 pytest
 selenium

@@ -7,7 +7,7 @@
     package
 """
 
-# How to install a python packages
+# How to install a python 09_packages
 """
 We need to write some set of scripts named as setup.py
 C:/Users/neova500/Desktop/GIT Projects/Python3/Python_Package/setup.py
@@ -19,5 +19,5 @@ In this we need to call setup() 07_functions which is available in setuptools mo
 # pip install .
 
 
-# Uninstall packages
+# Uninstall 09_packages
 # pip uninstall packagename
