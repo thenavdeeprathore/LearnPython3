@@ -19,6 +19,22 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
     How to run requirement.txt to install packages:
     pip3 install -r requirements.txt
  
+## `Language Fundamentals`
+* [Python introduction](language_fundamentals/01_Introduction.py)
+* [Identifiers](language_fundamentals/02_Identifiers.py)
+* [Reserved keywords](language_fundamentals/03_ReservedKeywords.py)
+* [Data types](language_fundamentals/04_DataTypes.py)
+* [int data type](language_fundamentals/05_DataTypes_Int.py)
+* [Base conversion](language_fundamentals/06_BaseConversion.py)
+* [float data type](language_fundamentals/07_DataTypes_Float.py)
+* [complex data type](language_fundamentals/08_DataTypes_Complex.py)
+* [boolean data type](language_fundamentals/09_DataTypes_Boolean.py)
+* [string data type](language_fundamentals/10_DataTypes_String.py)
+* [Type casting](language_fundamentals/11_TypeCasting.py)
+* [Immutability vs Mutability](language_fundamentals/12_ImmutabilityVsMutability.py)
+* [Collections introduction](language_fundamentals/13_Collections.py)
+* [None data type and escape char](language_fundamentals/14_None_EscapeChar_Constants.py)
+
 ## `Python3 Data Structures`
 **List**
 1) [List basic concepts](data_structure_list/List_Basics.py)
