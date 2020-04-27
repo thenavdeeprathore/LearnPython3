@@ -83,7 +83,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Module naming conflicts](modules/06_ModuleNamingConflicts.py)
 * [Module reloading](modules/07_ModuleReloading.py)
 * [Dir and help](modules/08_DirAndHelp.py)
-* [Special variable __name__](modules/09_SpecialVariable__name__.py)
+* [Special variable `__name__`](modules/09_SpecialVariable__name__.py)
 * [Math module](modules/10_MathModule.py)
 * [Random uniform module](modules/11_Random_Uniform_Module.py)
 * [RandInt RandRange module](modules/12_RandInt_RandRange_Module.py)
