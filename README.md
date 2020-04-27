@@ -116,3 +116,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 ## `Exception Handling`
 * [Exception handling basic concepts](exception_handling/Exception_Basics_Concepts.py)
 * [Exception handling 27 possible cases](exception_handling/exception_handling_possible_cases)
+
+## `Assertions`
+* [Assertion concepts](assertions/Assertions_Concept.py)
+* [Assertion types](assertions/Assertions_Types.py)
