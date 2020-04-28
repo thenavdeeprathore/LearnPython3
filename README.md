@@ -130,6 +130,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Constructors](10_oops/04_Constructors.py)
 * [Instance variable](10_oops/05_InstanceVariable.py)
 * [Static variable](10_oops/06_StaticVariable.py)
+* [Local variable](10_oops/07_LocalVariable.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
