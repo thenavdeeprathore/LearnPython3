@@ -136,6 +136,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Setter and getter methods](10_oops/10_SetterGetterMethod.py)
 * [Class / class related method](10_oops/11_ClassMethod.py)
 * [Static / utilities related method](10_oops/12_StaticMethod.py)
+* [Inner classes](10_oops/13_InnerClasses.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)

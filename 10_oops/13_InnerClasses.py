@@ -3,12 +3,13 @@
 
 class Employee:
 
-    # instance variable
+    # constructor
     def __init__(self, emp_no, emp_name, emp_sal):
         self.emp_no = emp_no
         self.emp_name = emp_name
         self.emp_Sal = emp_sal
 
+    # instance method
     def display(self):
         print("Employee Number: ", self.emp_no)
         print("Employee Name: ", self.emp_name)
@@ -17,8 +18,7 @@ class Employee:
 
 class Test:
 
-    # instance method
-    # @staticmethod
+    @staticmethod
     def modify(emp):
         emp.emp_Sal = emp.emp_Sal + 10000
         emp.display()
@@ -36,7 +36,6 @@ Test.modify(e)
 1) Class which is declared inside another class
 2) Without existing one type of object if there is no chance of existing another type of object
    then we should go for inner classes
-"""
 
 
 # Without car, engine can't exist
@@ -44,12 +43,14 @@ Test.modify(e)
 # Without existing outer class object there is no chance of existing inner class object
 # Inner class object is always associated with outer class objects
 # We can declare any number of inner classes
+"""
+
 
 # case 1:
 class Outer:
 
     def __init__(self):
-        print('Outer class object creation')
+        print('Outer class constructor')
 
     def m2(self):
         print('Outer class method')
@@ -57,32 +58,57 @@ class Outer:
     class Inner:
 
         def __init__(self):
-            print('Inner class object creation')
+            print('Inner class constructor')
 
         def m1(self):
             print('Inner class method')
 
 
-o = Outer()  # Outer class object creation
-i = o.Inner()  # Inner class object creation
+o = Outer()  # Outer class constructor
+i = o.Inner()  # Inner class constructor
 i.m1()  # Inner class method
 
 i = Outer().Inner()
 i.m1()
-# Outer class object creation
-# Inner class object creation
+# Outer class constructor
+# Inner class constructor
 # Inner class method
 
 Outer().Inner().m1()
-
-
-# Outer class object creation
-# Inner class object creation
+# Outer class constructor
+# Inner class constructor
 # Inner class method
 
 # Outer().Inner().m2()  # AttributeError: 'Inner' object has no attribute 'm2'
 
+
 # case 2:
+class Human:
+
+    def __init__(self, name):
+        self.name = name
+        self.head = self.Head()
+        self.brain = self.head.Brain()
+
+    def display(self):
+        print("Hello..", self.name)
+
+    class Head:
+        def talk(self):
+            print('Talking...')
+
+        class Brain:
+            def think(self):
+                print('Thinking...')
+
+
+h = Human("vicky")
+h.display()  # Hello.. vicky
+h.head.talk()  # Talking...
+h.brain.think()  # Thinking...
+
+
+# case 3:
 class Person:
 
     def __init__(self):
