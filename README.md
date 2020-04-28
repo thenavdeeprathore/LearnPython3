@@ -128,9 +128,11 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Reference variable](10_oops/02_ReferenceVariable.py)
 * [Self variable](10_oops/03_SelfVariable.py)
 * [Constructors](10_oops/04_Constructors.py)
-* [Instance variable](10_oops/05_InstanceVariable.py)
-* [Static variable](10_oops/06_StaticVariable.py)
-* [Local variable](10_oops/07_LocalVariable.py)
+* [Instance / Object level variables](10_oops/05_InstanceVariable.py)
+* [Static / Class level variables](10_oops/06_StaticVariable.py)
+* [Local / Method level variable](10_oops/07_LocalVariable.py)
+* [Types of methods](10_oops/08_TypesOfMethods.py)
+* [Instance / Object related method](10_oops/09_InstanceMethod.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)

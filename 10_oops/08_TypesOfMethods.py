@@ -1,7 +1,10 @@
-# There are 3 Types of methods:
+"""
+There are 3 Types of methods:
+----------------------------
 # Instance methods / Object related methods
 # Class methods / class related methods
 # Static methods / utilities methods
+"""
 
 
 # case 1: methods which are declared using self are instance methods
@@ -19,8 +22,8 @@ class Student:
 
 
 s1 = Student("Tom", 101)
-s2 = Student("John", 102)
 s1.bio()
+s2 = Student("John", 102)
 s2.bio()
 
 
