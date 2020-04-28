@@ -143,6 +143,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Has-A Relationship](10_oops/17_Has_A_Relationship.py)
 * [Is-A Relationship](10_oops/18_Is_A_Relationship.py)
 * [Has-A vs Is-A Relationship](10_oops/19_Has_A_vs_Is_A.py)
+* [Composition vs Aggregation](10_oops/20_CompositionVsAggregation.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
