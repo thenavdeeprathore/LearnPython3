@@ -1,11 +1,11 @@
-# What is the purpose of Garbage collection
-
-# To destroy useless objects
+"""
+What is the purpose of Garbage collection
+-----------------------------------------
 # Garbage collector is responsible to destroy useless objects
 # If object don't have any reference variables is eligible for garbage collection
 # Programmer is not responsible to destroy useless objects
-# To make python programs more robust
-# By default Garbage collection is enabled
+# To make python programs more robust by default Garbage collection is enabled
+"""
 
 
 # How to enable and disable GC in our program:
@@ -41,4 +41,3 @@ t = Test()
 t = None
 time.sleep(5)
 print('End of application')
-
