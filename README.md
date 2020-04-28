@@ -134,6 +134,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Types of methods](10_oops/08_TypesOfMethods.py)
 * [Instance / Object related method](10_oops/09_InstanceMethod.py)
 * [Setter and getter methods](10_oops/10_SetterGetterMethod.py)
+* [Class / class related method](10_oops/11_ClassMethod.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
