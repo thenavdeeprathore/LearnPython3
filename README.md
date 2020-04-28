@@ -139,6 +139,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Inner classes](10_oops/13_InnerClasses.py)
 * [Nested methods](10_oops/14_NestedMethods.py)
 * [Garbage collection](10_oops/15_GrabageCollection.py)
+* [Destructor](10_oops/16_Destructor.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
