@@ -137,6 +137,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Class / class related method](10_oops/11_ClassMethod.py)
 * [Static / utilities related method](10_oops/12_StaticMethod.py)
 * [Inner classes](10_oops/13_InnerClasses.py)
+* [Nested methods](10_oops/14_NestedMethods.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
