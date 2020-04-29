@@ -45,7 +45,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Shift operators](02_operators/07_ShiftOperators.py)
 * [Assignment operators](02_operators/08_AssignmentOperators.py)
 * [Ternary operators]
-* [Special operators]
+* [Special operators](02_operators/10_SpecialOperators.py)
 * [Operator precedence](02_operators/11_OperatorPrecedence.py)
 
 ## `Python3 Data Structures`
