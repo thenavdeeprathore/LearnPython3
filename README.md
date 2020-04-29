@@ -47,6 +47,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Ternary operators](02_operators/09_TernaryOperators.py)
 * [Special operators](02_operators/10_SpecialOperators.py)
 * [Operator precedence](02_operators/11_OperatorPrecedence.py)
+* [Math module](02_operators/12_MathModule.py)
 
 ## `Python3 Data Structures`
 **List**
