@@ -51,6 +51,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 
 ## `Input and Output`
 * [Input function](03_input_output/Input.py)
+* [Eval function](03_input_output/Eval.py)
 
 ## `Python3 Data Structures`
 **List**
