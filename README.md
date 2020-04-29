@@ -44,7 +44,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Bitwise operators](02_operators/06_BitwiseOperators.py)
 * [Shift operators](02_operators/07_ShiftOperators.py)
 * [Assignment operators](02_operators/08_AssignmentOperators.py)
-* [Ternary operators]
+* [Ternary operators](02_operators/09_TernaryOperators.py)
 * [Special operators](02_operators/10_SpecialOperators.py)
 * [Operator precedence](02_operators/11_OperatorPrecedence.py)
 
