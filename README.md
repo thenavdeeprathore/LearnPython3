@@ -49,6 +49,9 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Operator precedence](02_operators/11_OperatorPrecedence.py)
 * [Math module](02_operators/12_MathModule.py)
 
+## `Input and Output`
+* [Input function](03_input_output/Input.py)
+
 ## `Python3 Data Structures`
 **List**
 1) [List basic concepts](06_1_data_structure_list/List_Basics.py)
