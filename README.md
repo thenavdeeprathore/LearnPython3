@@ -157,6 +157,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Types of inheritance](10_oops/21_TypesOfInheritance.py)
 * [MRO](10_oops/22_MethodResolutionOrder.py)
 * [Super](10_oops/23_Super.py)
+* [Polymorphism](10_oops/24_Polymorphism.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
