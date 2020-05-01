@@ -1,6 +1,6 @@
 # Module
 """
-A group of 07_functions, variables and classes saved to a file, is known as module.
+A group of functions, variables and classes saved to a file, is known as module.
 
 Every Python file (.py) acts as a module.
 """
@@ -22,7 +22,7 @@ class A:
 
 
 """
-mymath.py module contains one variable and 2 07_functions.
+mymath.py module contains one variable and 2 functions.
 
 If we want to use members of module in our program then we should import that
 module.
