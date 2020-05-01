@@ -158,6 +158,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [MRO](10_oops/22_MethodResolutionOrder.py)
 * [Super](10_oops/23_Super.py)
 * [Polymorphism](10_oops/24_Polymorphism.py)
+* [Overloading](10_oops/25_Overloading.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
