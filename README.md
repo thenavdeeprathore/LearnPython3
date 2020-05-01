@@ -166,6 +166,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Access modifiers public private](10_oops/30_AccessModifiers.py)
 * [Data hiding](10_oops/31_DataHiding.py)
 * [Abstraction](10_oops/32_Abstraction.py)
+* [Encapsulation](10_oops/33_Encapsulation.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
