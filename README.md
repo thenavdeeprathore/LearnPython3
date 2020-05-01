@@ -167,6 +167,7 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Data hiding](10_oops/31_DataHiding.py)
 * [Abstraction](10_oops/32_Abstraction.py)
 * [Encapsulation](10_oops/33_Encapsulation.py)
+* [Three pillars of oops](10_oops/34_ThreePillarsOfOops.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
