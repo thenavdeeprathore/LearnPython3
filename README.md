@@ -160,6 +160,8 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 * [Polymorphism](10_oops/24_Polymorphism.py)
 * [Overloading](10_oops/25_Overloading.py)
 * [Overriding](10_oops/26_Overriding.py)
+* [Abstract method](10_oops/27_AbstractMethod.py)
+* [Abstract class](10_oops/28_AbstractClass.py)
 
 ## `Exception Handling`
 * [Exception handling basic concepts](11_exception_handling/Exception_Basics_Concepts.py)
