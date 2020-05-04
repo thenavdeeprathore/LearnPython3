@@ -58,6 +58,9 @@ The Complete Python 3 tutorial course from Beginner to Advanced!
 ## `Flow Control`
 * [If Else](04_flow_control/IfElse.py)
 
+## `String`
+* [String basic concepts](05_String/Strings.py)
+
 ## `Python3 Data Structures`
 **List**
 1) [List basic concepts](06_1_data_structure_list/List_Basics.py)
