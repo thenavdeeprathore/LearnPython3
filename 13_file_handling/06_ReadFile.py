@@ -9,7 +9,7 @@ readlines() To read all lines into a list
 """
 
 # read()
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 data = f.read()
 print(data)
 f.close()
@@ -21,7 +21,7 @@ print("***** read operations are completed *****")
 
 
 # read() -- default mode "r"
-f = open("../Python_FileHandling/abcd.txt")
+f = open("../13_file_handling/abcd.txt")
 data = f.read()
 print(data)
 f.close()
@@ -33,7 +33,7 @@ print("***** read operations are completed *****")
 
 
 # read(n) -- \n will also be calculated as char
-f = open("../Python_FileHandling/abcd.txt")
+f = open("../13_file_handling/abcd.txt")
 data = f.read(10)
 print(data)
 f.close()
@@ -43,7 +43,7 @@ print("***** read(n) operations are completed *****")
 
 
 # read(n) -- with negative value -- we will get total file content
-f = open("../Python_FileHandling/abcd.txt")
+f = open("../13_file_handling/abcd.txt")
 data = f.read(-1)
 print(data)
 f.close()
@@ -55,7 +55,7 @@ print("***** read(-n) operations are completed *****")
 
 
 # read(n) -- with larger count like 100000000 -- only available characters we will get
-f = open("../Python_FileHandling/abcd.txt")
+f = open("../13_file_handling/abcd.txt")
 data = f.read(100000000)
 print(data)
 f.close()
@@ -68,7 +68,7 @@ print("***** read(nnnnnnnnn) operations are completed *****")
 
 
 # readline()
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 row1 = f.readline()
 print("Firs row: ", row1, end="")
 row2 = f.readline()
@@ -80,7 +80,7 @@ print("***** readline() operations are completed *****")
 
 
 # readline() using loop
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 row = f.readline()
 while row != '':
     print(row, end='')
@@ -95,7 +95,7 @@ print("\n***** readline() wil loop operations are completed *****")
 
 
 # readlines() -- To read all lines into a list
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 list = f.readlines()
 print(list)
 f.close()
@@ -104,7 +104,7 @@ print("***** readlines() operations are completed *****")
 
 
 # readlines() -- To read all lines into a list items
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 list = f.readlines()
 for item in list:
     print(item, end='')
@@ -114,7 +114,7 @@ print("\n***** readlines() with loop operations are completed *****")
 
 
 # case 1: Not a good programming practise
-f = open("../Python_FileHandling/abcd.txt", "r")
+f = open("../13_file_handling/abcd.txt", "r")
 print(f.read(3))
 print(f.readline())
 print(f.readline())

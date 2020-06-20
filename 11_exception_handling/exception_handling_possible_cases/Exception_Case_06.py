@@ -18,5 +18,7 @@ try:
 finally:
     print('finally')
 
+# try
+# finally
 # abnormal termination
 # ZeroDivisionError: division by zero

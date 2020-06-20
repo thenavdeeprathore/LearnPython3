@@ -2,8 +2,8 @@
 
 # Make sure input.txt file is already created
 
-f1 = open("../Python_FileHandling/input.txt", "r")
-f2 = open("../Python_FileHandling/output.txt", "w")
+f1 = open("../13_file_handling/input.txt", "r")
+f2 = open("../13_file_handling/output.txt", "w")
 
 data = f1.read()
 f2.write(data)
